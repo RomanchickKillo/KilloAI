@@ -300,7 +300,3 @@ if __name__ == "__main__":
         asyncio.run(main())
     except KeyboardInterrupt:
         print("Бот остановлен пользователем.")
-logging~=0.4.9.6
-aiosqlite~=0.22.1
-mistralai~=1.10.0
-aiogram~=3.23.0
